@@ -2,7 +2,7 @@
 
 #### A software engineer from Germany
 
-- ⚙️ Using `.cs`, `.xaml`, `.js`/`.ts`, `.html`, `.css`, `.sql` and more
+- ⚙️ Using `.js`/`.ts`, `.html`, `.css`, `.sql`, `.py`, `.cs`, `.xaml`, and more
 - 🧐 Interested in topics around renewable energy, home automation, electronics and food
 - ❤️ Science, technology and travel
 - 🖨️ 3D printing useful things (sometimes)
